@@ -24,6 +24,7 @@ These are some of the skills I have and the tools I use!
 
 <img src="https://github-readme-stats.vercel.app/api?username=SamuelElliotJ&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="SamuelElliotJ's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelElliotJ&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="SamuelElliotJ's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=SamuelElliotJ&theme=midnight-purple&hide_border=false" alt="SamuelElliotJ's GitHub Stats" />
 
 # Lets Connect 👏
 
